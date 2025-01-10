@@ -76,3 +76,5 @@ weeklyad.target.com
 weeklyad.target.com.edgesuite.net
 win10.ipv6.microsoft.com
 www.msftncsi.com
+srtb.msn.com
+viacom18.moloco.com
