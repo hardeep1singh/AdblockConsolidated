@@ -78,3 +78,5 @@ win10.ipv6.microsoft.com
 www.msftncsi.com
 srtb.msn.com
 viacom18.moloco.com
+analytics.swiggy.com
+graph.facebook.com
