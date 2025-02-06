@@ -81,3 +81,6 @@ viacom18.moloco.com
 analytics.swiggy.com
 graph.facebook.com
 c.msn.com
+hikari.jiocinema.com
+
+
