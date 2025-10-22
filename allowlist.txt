@@ -93,4 +93,6 @@ login.microsoftonline.com
 *.onenote.com
 *.office.com
 *.live.com
-
+smetrics.icicibank.com
+assets.adobedtm.com
+somni.sbimobility.com
