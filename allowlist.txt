@@ -82,5 +82,15 @@ analytics.swiggy.com
 graph.facebook.com
 c.msn.com
 hikari.jiocinema.com
-
+teams.microsoft.com
+*.teams.microsoft.com
+graph.microsoft.com
+outlook.office.com
+outlook.office365.com
+*.sharepoint.com
+login.microsoftonline.com
+*.msedge.net
+*.onenote.com
+*.office.com
+*.live.com
 
