@@ -96,3 +96,10 @@ login.microsoftonline.com
 smetrics.icicibank.com
 assets.adobedtm.com
 somni.sbimobility.com
+ichnaea-web.netflix.com
+smetrics.icicibank.com
+assets.adobedtm.com
+somni.sbimobility.com
+in1.clevertap-prod.com
+in1-spiky.clevertap-prod.com
+analytics.tatadigital.com
