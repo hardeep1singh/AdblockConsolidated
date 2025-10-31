@@ -103,3 +103,4 @@ somni.sbimobility.com
 in1.clevertap-prod.com
 in1-spiky.clevertap-prod.com
 analytics.tatadigital.com
+smetrics.hdfcbank.com
